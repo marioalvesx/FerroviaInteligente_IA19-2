@@ -1,5 +1,5 @@
 # Ferrovia Inteligente (Drones que recolhem obstáculos do trilho do trem)
-	[] - Pesquisar % de acidentes de trem por ano como motivo para ideia do trabalho;
+	[] - Pesquisar % de acidentes de trem por ano para validar importância da ideia;
 	[x] - Implmentar matriz com ambiente;
 	[x] - Contador de obstaculos e drones;
 	[] - Opção de dois tipos de ciclos para o usuário;
